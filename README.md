@@ -19,10 +19,6 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 - Responsive design, mobile-friendly
 - Seamless navigation using React-DOM
 
-## Demo
-
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
-
 ## Technologies
 
 - React JS
@@ -49,15 +45,9 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 1. Start the development server:
     ```sh
     npm start
-    ```
-2. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+    npm run dev
+    
+2. Open your browser and navigate to `http://localhost:3000` or `http://localhost:5173`.
 
 
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
 
