@@ -33,7 +33,7 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    git clone [https://github.com/Sandeep1311-hub/Spotify-IS]
     ```
 2. Navigate to the project directory:
     ```sh
@@ -56,9 +56,6 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
